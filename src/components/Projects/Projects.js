@@ -9,7 +9,8 @@ import fabAlley from "../../Assets/Projects/faballeyHomepage.png"
 import mahabis from "../../Assets/Projects/Mahabiss homepage.png"
 import tictactoe from "../../Assets/Projects/tic-tac-toe.png"
 import todo from "../../Assets/Projects/todo-home.png"
-// import myntra from "../../Assets/Projects/myntrahomepage"
+import myntra from "../../Assets/Projects/myntrahomepage.png"
+import dominos from "../../Assets/Projects/dominos.png"
 
 
 
@@ -33,7 +34,7 @@ function Projects() {
             <ProjectCard
               imgPath={fabAlley}
               isBlog={false}
-              title="FabAlley (clone)"
+              title="FabAlley"
               description="FabAlley is a fashion brand empowering women with inclusive and trendy western wear, from party dresses to statement accessories."
               techStack="HTML, CSS, Javascript, React js, Redux, Material UI, Firebase"
               ghLink="https://github.com/harshita0802goswami/faballey-clone"
@@ -45,11 +46,24 @@ function Projects() {
             <ProjectCard
               imgPath={mahabis}
               isBlog={false}
-              title="Mahabis (clone)"
+              title="Mahabis"
               description="Mahabis is a premium e-commerce lifestyle brand that sells slippers and accessories with a natural rubber sole for indoor and outdoor use."
               techStack="HTML,CSS,Javascript,React js, Redux, Material UI, Firebase"
               ghLink="https://github.com/Md-Alqma/mahabis-clone"
               demoLink="https://dreamy-frangipane-645120.netlify.app/"
+            />
+          </Col>
+
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={dominos}
+              isBlog={false}
+              title="Dominos"
+              description="Domino's company is known for its fast delivery of freshly made pizzas,pasta, and sandwiches."
+              techStack=" HTML, CSS, Javascript, React, Redux, Material UI, express js, Mongo db, Node js"
+              ghLink="https://github.com/sulthan441/Dominos"
+              demoLink="https://mern-dominos-clone.netlify.app/"
             />
           </Col>
 
@@ -61,7 +75,7 @@ function Projects() {
               description="This to-do list app is a digital tool for organizing and managing tasks, allowing users to create, edit, and delete tasks."
               techStack=" HTML, CSS, Javascript, React, Redux, Material UI, express js, Mongo db, Node js"
               ghLink="https://github.com/sulthan441/MERNTodo"
-              demoLink="https://mern-todo-mds.netlify.app/"              
+              demoLink="https://mern-todo-mds.netlify.app/"
             />
           </Col>
 
@@ -82,11 +96,24 @@ function Projects() {
             <ProjectCard
               imgPath={bestbuy}
               isBlog={false}
-              title="Best Buy (clone)"
+              title="Best Buy"
               description="Best Buy is an e-commerce website and electronics retailer selling mobile phones, digital cameras, video games, music, and home appliances."
               techStack=" HTML, CSS, Javascript"
               ghLink="https://github.com/sulthan441/team_BestBuy"
               demoLink="https://mellow-gumption-4caaff.netlify.app/"
+            />
+          </Col>
+
+          
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={myntra}
+              isBlog={false}
+              title="Myntra"
+              description="Myntra is a fashion ecom-website where use can buy clothings and accessories. we have created this project for learning purpose"
+              techStack=" HTML, CSS, Javascript"
+              ghLink="https://github.com/anuragn0507/myntra-clone"
+              demoLink="https://myntra-clone-saans.netlify.app/"
             />
           </Col>
 
