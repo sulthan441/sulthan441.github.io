@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa133354.css",
+    "main.js": "/static/js/main.2714fe82.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/faballeyHomepage.png": "/static/media/faballeyHomepage.4aa923b468fee1a0aa8e.png",
+    "static/media/Mahabiss homepage.png": "/static/media/Mahabiss homepage.d054466dfb8c073ba137.png",
+    "static/media/myntrahomepage.png": "/static/media/myntrahomepage.df457e4aa0ec4ad7d9a4.png",
+    "static/media/tic-tac-toe.png": "/static/media/tic-tac-toe.2c643bf11042564df670.png",
+    "static/media/todo-home.png": "/static/media/todo-home.d6a15220cea913bff71b.png",
+    "static/media/dominos.png": "/static/media/dominos.2ef0f29f55921ee5ca31.png",
+    "static/media/best-buy homepage.png": "/static/media/best-buy homepage.78446606b489dc52db69.png",
+    "static/media/codepen.png": "/static/media/codepen.c6291fb2bede51ae05e6.png",
+    "static/media/Mohammed_Sulthan_Resume_FWD1.pdf": "/static/media/Mohammed_Sulthan_Resume_FWD1.5db64f019cabe6bd286a.pdf",
+    "static/media/talk-together.png": "/static/media/talk-together.476fac2db5789f196775.png",
+    "static/media/avatars.png": "/static/media/avatars.16ba492a1dde2b60fcdf.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/static/media/logo.425d5c1185b45b353900.png",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.aa133354.css.map": "/static/css/main.aa133354.css.map",
+    "main.2714fe82.js.map": "/static/js/main.2714fe82.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa133354.css",
+    "static/js/main.2714fe82.js"
+  ]
+}
