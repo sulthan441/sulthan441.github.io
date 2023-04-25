@@ -11,6 +11,7 @@ import tictactoe from "../../Assets/Projects/tic-tac-toe.png"
 import todo from "../../Assets/Projects/todo-home.png"
 import myntra from "../../Assets/Projects/myntrahomepage.png"
 import dominos from "../../Assets/Projects/dominos.png"
+import talk from "../../Assets/Projects/talk-together.png"
 
 
 
@@ -78,6 +79,20 @@ function Projects() {
               demoLink="https://mern-todo-mds.netlify.app/"
             />
           </Col>
+
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={talk}
+              isBlog={false}
+              title="Talk-Together (Chat Application)"
+              description="A chat application was created using HTML, CSS, JS, and React, which allows users to communicate with each other in real-time"
+              techStack=" HTML, CSS, Javascript, React"
+              ghLink="https://github.com/sulthan441/ChatApp"
+              demoLink="https://talk-together-mds.netlify.app/"
+            />
+          </Col>
+          
 
 
           <Col md={4} className="project-card">
